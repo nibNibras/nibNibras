@@ -1,7 +1,7 @@
 # Hi, 👋 I'm Nibras! 
 
 👩‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
-👩‍🎓 Studied at the Monash University, Australia<br/> 
+👩‍🎓 Studied at the SMK Negeri 1 Surabaya<br/> 
 📝 Currently learning about data analytics and database!<br/> 
 
 #  Tech Stack 💻
