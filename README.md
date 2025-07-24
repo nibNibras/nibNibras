@@ -35,4 +35,4 @@
 ![image]({https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white})
 
 # Github Stats 📊
-![Nib's GitHub stats](https://github-readme-stats.vercel.app/api?username=stacygwendolyne&theme=radical&hide_border=false&include_all_commits=true&count_private=true) <br/> 
+![Nib's GitHub stats](https://github-readme-stats.vercel.app/api?username=nibNibras&theme=radical&hide_border=false&include_all_commits=true&count_private=true) <br/> 
