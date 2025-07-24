@@ -1,4 +1,4 @@
-![Header](./nibs-github-profile.png)
+![Header](nibs-github-profile.png)
 
 
 👩‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
