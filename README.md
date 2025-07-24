@@ -1,4 +1,5 @@
-# Hi, 👋 I'm Nibras! 
+![Header](./nibs-github-profile.png)
+
 
 👩‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
 👩‍🎓 Studied at the SMK Negeri 1 Surabaya<br/> 
