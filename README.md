@@ -3,7 +3,6 @@
 
 👩‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
 👩‍🎓 Studied at the SMK Negeri 1 Surabaya<br/> 
-📝 Currently learning about database!<br/> 
 
 #  Tech Stack 💻
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
